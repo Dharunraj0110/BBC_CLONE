@@ -1,0 +1,97 @@
+.Footer-main{
+    position: absolute;
+    height: 310px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+
+.Footerpara{
+    font-size: 40px;
+    color: blue;
+}
+
+.BBClogo1{
+    height: 120px;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
+.footermain1{
+    display: flex;
+}
+
+.FooterLi{
+    list-style: none;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+
+/* .FooterLi a{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+.FooterLiA{
+  color: black;
+  position: relative;
+  font-size: 20px;
+  text-decoration: none;
+}
+.FooterLiA:hover{
+    color: blue;
+}
+
+.line10{
+    border: 1px solid black;
+    width: 94%;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.head66{
+    font-size: 23px;
+    font-weight: 900;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.socialmediaicon{
+    height: 70px;
+    margin-left: 190px;
+    margin-top: -47px;
+    cursor: pointer;
+}
+
+.sociallinks{
+    list-style: none;
+    margin-left: 50px;
+    
+}
+
+.sociallinksA{
+   font-size: 20px;
+   text-decoration: none;
+   color: black;
+}
+
+.sociallinks-main{
+    display: flex;
+    gap: -20px;
+    position: relative;
+}
+.sociallinksA:hover{
+    color: blue;
+}
+
+.copyrightbbc{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.lastlineinfooter{
+    border: 1px solid black;
+    width: 94%;
+    margin-left: 50px;
+    margin-top: 20px;
+}

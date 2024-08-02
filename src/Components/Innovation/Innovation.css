@@ -1,0 +1,124 @@
+.innovation-main{
+    height: 2537px;
+    width: 100%;
+    background-color: whitesmoke;
+    
+}
+.CrowdStrike{
+    font-size: 23px;
+    position: absolute;
+    margin-left: 310px;
+    top: 120px;
+    text-decoration: none;
+    color: black;
+}
+.CrowdStrike:hover{
+    text-decoration: underline;
+}
+.list1{
+    font-size: 20px;
+    margin-left: 310px;
+    top: 180px;
+    position: absolute;
+}
+.list2{
+    font-size: 20px;
+    top: 70px;
+    position: absolute;
+}
+.list3{
+    position: absolute;
+    top: 140px;
+}
+.list4{
+    position: absolute;
+    top: 210px;
+}
+.error1img{
+    height: 400px;
+    position: absolute;
+    top: 300px;
+    left: 50px;
+}
+.Innovationline{
+    position: absolute;
+    border: 1px solid black;
+    width: 1407px;
+    left: -260px;
+    top: 2351px;
+}
+
+
+
+.Tesla{
+    font-size: 23px;
+    position: absolute;
+    top: 780px;
+    cursor: pointer;
+}
+.Tesla:hover{
+    text-decoration: underline;
+}
+.li-1{
+    font-size: 20px;
+    top: 820px;
+    position: absolute;
+}
+.li-2{
+    position: absolute;
+    top: 880px;
+}
+.muskimg{
+    height: 400px;
+    position: absolute;
+    top: 970px;
+}
+.li-3{
+    font-size: 20px;
+    position:absolute;
+    top: 1400px;
+}
+.li-4{
+    font-size: 20px;
+    position: absolute;
+    top: 1470px;
+}
+.athletics{
+    font-size: 23px;
+    position: absolute;
+    top: 1570px;
+    cursor: pointer;
+}
+.athletics:hover{
+    text-decoration: underline;
+}
+.stadiumimg{
+    position: absolute;
+    height: 400px;
+    top: 1620px;
+    cursor: pointer;
+}
+.probably{
+    position: absolute;
+    top: 2050px;
+    font-size: 23px;
+    cursor: pointer;
+}
+.probably:hover{
+    text-decoration: underline;
+}
+.when{
+    position: absolute;
+    font-size: 20px;
+    top: 2090px;
+}
+.Describing{
+    position: absolute;
+    font-size: 20px;
+    top: 2155px;
+}
+.wet{
+    position: absolute;
+    font-size: 20px;
+    top: 2225px;
+}

@@ -1,0 +1,163 @@
+.sports-main{
+    height: 1100px;
+    width: 100%;
+    display: flex;
+    top: 600px;
+    background-color: whitesmoke;
+}
+.sportsP{
+    font-size: 70px;
+    margin-top:100px;
+}
+
+.cricketh3{
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: 50px;
+    color: brown
+}
+
+.sportsline1{
+    border: 2px solid black;
+    margin-top: 140px;
+    position: absolute;
+    width: 1400px;
+    left: 50px;
+}
+
+.sports123{
+    font-size: 23px;
+    top: 480px;
+    left: 50px;
+    position: absolute;
+}
+
+.sportspara1{
+    font-size: 20px;
+    margin-top: 515px;
+    margin-left: -130px;
+}
+
+.h3para{
+    font-size: 23px;
+    text-decoration: none;
+    color: black;
+    margin-top: -400px;
+    left: 680px;
+    position: absolute;
+}
+
+.root{
+    font-size: 20px;
+    left: 680px;
+    margin-top: -370px;
+    position: absolute;
+}
+.h3para:hover{
+    color: green;
+    text-decoration: underline;
+}
+
+.Berrington{
+    font-size: 23px;
+    margin-left: 500px;
+    margin-top: -270px;
+    cursor: pointer;
+}
+.Berrington:hover{
+    color: green;
+    text-decoration: underline;
+}
+
+.caption{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 500px;
+    top: 330px;
+}
+
+.Football-main{
+    position: absolute;
+}
+
+.Football{
+    font-size: 40px;
+    margin-top: 600px;
+    margin-left: 50px;
+    color: brown;
+}
+
+.Footballline{
+    border: 2px solid black;
+    width: 1400px;
+    position: absolute;
+    margin-top: 660px;
+    left: 50px;
+}
+
+.Marseilleh3{
+    font-size: 23px;
+    position: absolute;
+    margin-top: 680px;
+    left: 50px;
+    cursor: pointer;
+}
+.Marseilleh3:hover{
+    color: green;
+    text-decoration: underline;
+}
+
+.Marseilleimg{
+    height: 200px;
+    margin-top: 760px;
+    position: absolute;
+    left: 50px;
+}
+
+.Marseillepara{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 975px;
+    left: 50px;
+}
+
+.Brightonh3{
+    position: absolute;
+    margin-top: 680px;
+    font-size: 23px;
+    margin-left: 680px;
+    cursor: pointer;
+}
+.Brightonh3:hover{
+    color: green;
+    text-decoration: underline;
+}
+
+.Sourcespara{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 760px;
+    left: 680px;
+}
+
+.Thepara{
+    position: absolute;
+    font-size: 20px;
+    margin-left: 680px;
+    margin-top: 830px;
+}
+
+.Theypara{
+    position: absolute;
+    margin-top: 900px;
+    font-size: 20px;
+    margin-left: 680px;
+}
+
+.lastlinesports{
+    border: 1px solid black;
+    position: absolute;
+    margin-top: 1098px;
+    width: 1410px;
+    margin-left: -1220px;
+}

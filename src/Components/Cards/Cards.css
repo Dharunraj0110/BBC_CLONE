@@ -1,0 +1,22 @@
+.propsimg1{
+    height: 300px;
+    position: absolute;
+    top: 170px;
+    left: 50px;
+}
+/* .Card-main{
+    border: 2px solid black;
+} */
+
+.propshead{
+    font-size: 23px;
+    margin-top: 480px;
+    position: absolute;
+    left: 50px;
+}
+
+.propspara{
+    font-size: 20px;
+    margin-top: 520px;
+    margin-left: -130px;
+}

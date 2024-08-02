@@ -1,0 +1,18 @@
+.Aboutmicrosoft-main{
+    height: 640px;
+    background-color: whitesmoke;
+    position: relative;
+}
+
+.microimg1{
+    height: 300px;
+    margin-left: 460px;
+    margin-top: 100px;
+}
+
+.Ehppara{
+    font-size: 23px;
+    position: absolute;
+    top: 430px;
+    margin-left: 50px;
+}

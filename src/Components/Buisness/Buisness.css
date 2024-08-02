@@ -1,0 +1,123 @@
+.Buisness-main{
+    display: flex;
+    height: 1300px;
+    width: 100%;
+    top: 600px;
+    background-color: whitesmoke;
+}
+.h4{
+    font-size: 23px;
+    position: absolute;
+    margin-top: 100px;
+    left: 50px;
+    cursor: pointer;
+}
+.h4:hover{
+    text-decoration: underline;
+}
+.spanishbeach{
+    height: 300px;
+    width: 500px;
+    position: absolute;
+    left: 50px;
+    top: 150px;
+    cursor: pointer;
+}
+.spanishbeachpara{
+    font-size: 20px;
+    position: absolute;
+    top: 470px;
+    left: 50px;
+}
+.How{
+    position: absolute;
+    top: 440px;
+    font-size: 23px;
+    left: 750px;
+    cursor: pointer;
+}
+.How:hover{
+    text-decoration: underline;
+}
+.errorimg{
+    position: absolute;
+    height: 300px;
+    left: 750px;
+    top: 120px;
+}
+.While{
+    position: absolute;
+    font-size: 20px;
+    left: 750px;
+    top: 480px;
+}
+.Very{
+    position: absolute;
+    font-size: 20px;
+    top: 570px;
+    left: 750px;
+}
+.buisnesshr{
+    position: absolute;
+    border: 1px solid black;
+    top: 1298px;
+    width: 1400px;
+    left: 50px;
+}
+.Modi{
+    font-size: 23px;
+    position: absolute;
+    top: 550px;
+    left: 50px;
+    cursor: pointer;
+}
+.Modi:hover{
+text-decoration: underline;
+}
+.labimg{
+    position: absolute;
+    height: 300px;
+    left: 50px;
+    top: 600px;
+    cursor: pointer;
+}
+.Tuesday{
+    font-size: 20px;
+    position: absolute;
+    left: 50px;
+    top: 920px;
+}
+.weakened{
+    position: absolute;
+    font-size: 20px;
+    left: 50px;
+    top: 1010px;
+}
+.agriculture{
+    height: 300px;
+    left: 750px;
+    position: absolute;
+    top: 690px;
+}
+.Indians{
+    position: absolute;
+    margin-top: 1000px;
+    font-size: 20px;
+    left: 750px;
+    cursor: pointer;
+}
+.Indians:hover{
+    text-decoration: underline;
+}
+.Wages{
+    font-size: 20px;
+    position: absolute;
+    top: 1040px;
+    left: 750px;
+}
+.cars{
+    position: absolute;
+    font-size: 20px;
+    top: 1105px;
+    left: 750px;
+}

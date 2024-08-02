@@ -1,0 +1,185 @@
+/* p{
+font-size: 30px;
+color: wheat;
+font-weight: 800;
+background-color: blueviolet;
+height: 800px;
+margin-top: 100px;
+z-index: -1;
+} */
+
+
+
+.home-main{
+    background-color: whitesmoke;
+    height: 620px;
+    width: 100%;
+    display: flex;
+}
+@media screen and (max-width:500px){
+    .home-main{
+        flex-direction: column;
+    }
+}
+.kalam11{
+    position: absolute;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 80px;
+    cursor: pointer;
+}
+.kalam11:hover{
+    /* filter: brightness(2); */
+    opacity: 50;
+}
+.h1{
+    color: black;
+    position: absolute;
+    font-size: 23px;
+    margin-top: 300px;
+    margin-left: 50px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.h1:hover{
+    text-decoration: underline;
+}
+.para1{
+    font-size: 20px;
+    margin-top: 400px;
+    margin-left: 50px;
+    position: absolute;
+}
+
+.armypic1{
+    height: 300px;
+    width: 500px;
+    margin-top: 80px;
+    margin-left: 430px;
+    cursor: pointer;
+}
+/* .para11{
+    position: absolute;
+    font-size: 23px;
+    margin-left: 408px;
+    margin-top: -300px;
+    color: black;
+    text-decoration: none;
+} */
+/* .para111{
+  font-size: 20px;
+  margin-top: -230px;
+  margin-left: 408px;
+} */
+
+.para11{
+    position: absolute;
+    font-size: 23px;
+    margin-top: 390px;
+    margin-left: -500px;
+    color: black;
+    text-decoration: none;
+}
+.para11:hover{
+    text-decoration: underline;
+}
+.para111{
+   font-size: 20px;
+   margin-top: 490px;
+   color: black;
+   margin-left: 430px;
+   position: absolute;
+}
+
+.indianarmypic{
+    height: 200px;
+    margin-top: 80px;
+    margin-left: 100px;
+    position: relative;
+    cursor: pointer;
+}
+
+.head1{
+    position: absolute;
+    font-size: 23px;
+    margin-top: 400px;
+    margin-left: -350px;
+    margin-top: 300px;
+    color: black;
+    text-decoration: none;
+}
+.head1:hover{
+    text-decoration: underline;
+}
+
+.para12{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 370px;
+    margin-left: -350px;
+}
+
+.line1{
+    border: 1px solid black;
+    width: 94%;
+    margin-left: 50px;
+}
+
+.home-main1{
+    background-color: whitesmoke;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.HPimg{
+    height: 400px;
+    position: absolute;
+    left: 50px;
+    top: 650px;
+    cursor: pointer;
+}
+
+.head2{
+    font-size: 23px;
+    margin-top: 450px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.head2:hover{
+    text-decoration: underline;
+}
+.HPpara{
+    position: absolute;
+    left: 50px;
+    margin-top: 520px;
+}
+
+.microsoftimg{
+    position: absolute;
+    height: 400px;
+    top: 650px;
+    left: 750px;
+    cursor: pointer;
+}
+
+.microhead{
+    position: absolute;
+    font-size: 23px;
+    margin-top: 450px;
+    margin-left: 750px;
+    cursor: pointer;
+}
+.microhead:hover{
+    text-decoration: underline;
+}
+.micropara{
+    margin-left: 750px;
+    margin-top: -30px;
+}
+
+.line2{
+    border: 1px solid black;
+    width: 94%;
+    margin-left: 50px;
+}   
